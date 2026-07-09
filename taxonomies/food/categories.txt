@@ -14344,6 +14344,7 @@ wikidata:en: Q3576141
 
 < fr: Alsace Grand Cru
 fr: Alsace grand cru Rosacker, Rosacker
+zh: 罗莎克阿尔萨斯特级园, 阿尔萨斯特级园罗莎克
 en: Alsace Grand Cru preceded by Rosacker
 origins:en: en:france
 protected_name_file_number:en: PDO-FR-A0341
