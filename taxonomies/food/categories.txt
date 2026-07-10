@@ -49421,6 +49421,7 @@ ciqual_food_name:fr: Fromage blanc nature, 0% MG
 < fr: Fromages blancs
 en: Plain fresh cream cheese around 1% fat
 fr: Fromage blanc nature à 1% de matières grasses environ
+zh: 约1%脂肪原味白奶酪
 
 < fr: Fromages blancs
 en: Plain fresh cream cheese around 3% fat
