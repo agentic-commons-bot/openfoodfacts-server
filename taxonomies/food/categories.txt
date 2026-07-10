@@ -35790,6 +35790,7 @@ lt: Duonos gaminiai
 nl: Gepaneerde producten
 ru: Хлебные продукты
 sv: Panerade produkter
+zh: 裹面包糠食品
 
 < en: Breaded products
 < en: Cheese preparations
@@ -35828,6 +35829,7 @@ wikidata:en: Q1055940
 < en: Breaded products
 en: Cheese and ham breaded
 fr: Fromage pané au jambon
+zh: 火腿奶酪裹面包糠食品
 agribalyse_food_code:en: 25546
 ciqual_food_code:en: 25546
 ciqual_food_name:en: Cheese and ham, breaded
@@ -35850,11 +35852,13 @@ en: Breaded Bami patties
 fr: Tranches de Bami panées
 hr: Pohane bami pljeskavice
 nl: Bamischijven
+zh: 裹面包糠巴米肉饼
 
 < en: Breaded products
 en: Kroketten
 fr: Croquettes hollandaises
 nl: Kroketten
+zh: 荷兰可乐饼
 
 < en: Frozen foods
 < en: Kroketten
