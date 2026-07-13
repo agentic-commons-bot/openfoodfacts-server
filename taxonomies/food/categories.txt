@@ -95760,6 +95760,7 @@ pl: kaszanka
 
 < fr: Boudins
 en: Brown puddings
+zh: 棕布丁
 
 < en: Brown puddings
 en: Timoleague Brown Pudding
@@ -95767,6 +95768,7 @@ origins:en: en:ireland
 protected_name_file_number:en: PGI-IE-0093
 protected_name_type:en: pgi
 wikidata:en: Q7806915
+zh: 蒂莫利格棕布丁
 
 < en: sausages
 en: Game sausages
