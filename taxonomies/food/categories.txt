@@ -99564,6 +99564,7 @@ it: Trofie
 #en:Pastas
 en: Wheat vermicelli
 it: Vermicelli
+zh: 小麦粉丝
 
 < en: Pastas
 it: Vincisgrassi
