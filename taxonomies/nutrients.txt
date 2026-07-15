@@ -6884,6 +6884,7 @@ ca: Aigua
 es: Agua
 fr: Eau
 it: Acqua
+zh: 水
 unit:en: g
 
 zz: acidity
