@@ -6915,6 +6915,7 @@ xx: Beta-Alanine
 en: Beta-Alanine
 es: Beta-Alanina
 fr: Bêta-Alanine
+zh: β-丙氨酸
 unit:en: g
 wikidata:en: Q310919
 wikipedia:en: https://en.wikipedia.org/wiki/%CE%92-Alanine
