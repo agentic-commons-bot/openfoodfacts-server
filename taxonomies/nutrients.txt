@@ -6945,6 +6945,7 @@ xx: L-Glutamine
 en: L-Glutamine, Glutamine, Gln
 ca: L-Glutamina, Glutamina
 es: L-Glutamina, Glutamina
+zh: L-谷氨酰胺
 unit:en: mg
 wikidata:en: Q181619
 wikipedia:en: https://en.wikipedia.org/wiki/Glutamine
