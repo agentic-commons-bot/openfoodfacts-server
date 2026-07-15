@@ -127406,4 +127406,5 @@ fr: Spirales de blé dur complet
 
 en: Semi whole durum wheat spirals
 fr: Spirales de blé dur semi-complet
+zh: 半全麦硬粒小麦螺旋面
 
