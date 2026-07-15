@@ -6900,6 +6900,7 @@ it: Acidità
 nl: Zuurgraad
 pt: Acidez
 sv: Surhet
+zh: 酸度
 unit:en: % vol
 
 zz: dry-residue
