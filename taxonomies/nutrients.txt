@@ -6926,6 +6926,7 @@ ca: Creatina, Monohidrat de creatina, Monohidrat Creatina
 es: Creatina, Monohidrato de creatina, Monohidrato Creatina
 fr: Créatine, Monohydrate de Créatine
 it: Creatina
+zh: 肌酸
 unit:en: g
 wikidata:en: Q223600
 wikipedia:en: https://en.wikipedia.org/wiki/Creatine
