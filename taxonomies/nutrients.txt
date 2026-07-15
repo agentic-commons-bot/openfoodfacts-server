@@ -6839,6 +6839,7 @@ zz: methylsulfonylmethane
 xx: MSM, OptiMSM
 en: Methylsulfonylmethane, Dimethyl sulfone, Methyl sulfone
 sv: Metylsulfonylmetan
+zh: 甲基磺酰基甲烷
 unit:en: mg
 wikidata:en: Q423842
 wikipedia:en: https://en.wikipedia.org/wiki/Methylsulfonylmethane
