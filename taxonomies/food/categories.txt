@@ -125937,6 +125937,7 @@ nl: Xanthaangom
 #Things you put on slices of bread during meals that consist mainly of bread
 en: Bread coverings
 nl: Broodbeleggen, Broodbeleg
+zh: 面包涂抹
 
 < nl: Broodbeleggen
 nl: Kokosbrood
