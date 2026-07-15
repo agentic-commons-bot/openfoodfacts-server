@@ -6852,6 +6852,7 @@ en: NOVA group
 bg: Група NOVA
 fr: Groupe NOVA
 it: Gruppo NOVA
+zh: NOVA 分级
 automatically_computed:en: yes
 unit:en:
 
