@@ -6936,6 +6936,7 @@ en: L-citrulline, Citrulline
 ca: L-citrul·lina
 es: L-Citrulina, Citrulina
 fr: L-citruline
+zh: L-瓜氨酸
 unit:en: mg
 wikidata:en: Q408641
 wikipedia:en: https://en.wikipedia.org/wiki/Citrulline
