@@ -29,6 +29,7 @@ pt: outras substâncias nutricionais
 ro: alte substanțe nutritive
 ru: Другие питательные вещества
 sv: Andra näringsämnen
+zh: 其他营养物质
 
 
 
