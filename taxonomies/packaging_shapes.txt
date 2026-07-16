@@ -139,6 +139,7 @@ it: Vaschetta
 nl: Tray
 pl: Tacka
 pt: Tabuleiro, cuvete, tabuleiros, cuvetes, couvete, couvetes
+zh: 托盘
 description:nl: Een open verpakking die onderverdeeld is in verschillende vakjes.
 
 en: Jar, jars
