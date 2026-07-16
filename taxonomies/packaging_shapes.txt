@@ -1420,6 +1420,7 @@ en: wrapper, wrapping
 es: envoltorio
 fr: enveloppage
 pt: invólucro
+zh: 外包纸
 # suggest:packaging_materials:en: en:metal, en:paper, en:other
 # image:xx:enveloppage.svg
 
