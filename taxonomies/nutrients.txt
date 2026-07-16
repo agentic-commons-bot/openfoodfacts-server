@@ -7190,6 +7190,7 @@ fr: sulfate de cuivre II pentahydraté, sulfate de cuivre pentahydraté, sulfate
 it: solfato di rarne pentaidrato
 nl: koper II sulfaatpentahydraat
 pt: sulfato de cobre II penta-hidratado
+zh: 五水硫酸铜
 unit:en: mg
 
 zz: manganous sulphate monohydrate
