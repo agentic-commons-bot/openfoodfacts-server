@@ -1098,6 +1098,7 @@ fr: feuille, feuilles, feuille intercalaire, feuilles intercalaires, Plaque / In
 hu: fólia, fóliák, lap, lapok
 nl: blad, bladeren
 pt: Folha, folhas
+zh: 薄片
 weight:en: light
 
 # cardboard is listed in materials, not shapes
