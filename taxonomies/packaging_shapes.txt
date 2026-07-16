@@ -1136,6 +1136,7 @@ hu: Háló, hálók
 nl: Net, netje, netten, netjes
 pl: Siatka, siatki
 pt: Rede, redes, saco de rede, sacos de rede, sacos de redes, saco de redes
+zh: 网袋
 # suggest:packaging_materials:en: en:metal, en:other
 # related_categories:en: en:Fresh garlic
 # image:xx:filet-autre-1.svg
