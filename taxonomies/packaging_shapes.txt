@@ -1123,6 +1123,7 @@ mi: kaupapa
 nl: drager
 pt: suporte, placa, suportes, placas
 ru: подкладка
+zh: 背衬
 description:en: A liner or other material added behind or underneath
 description:fr: Ce qui soutient une chose, ce sur quoi elle pose
 description:nl: Voorwerp dat iets ondersteunt
