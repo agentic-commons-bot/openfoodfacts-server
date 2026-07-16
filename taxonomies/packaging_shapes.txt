@@ -1242,6 +1242,7 @@ hu: tányér, tányérok
 nl: Bord, Borden, Bordje
 pl: Talerz, talerze
 pt: Prato, pratos
+zh: 餐盘
 wikidata:en: Q57216
 # suggest:packaging_materials:en: en:plastic, en:cardboard
 
