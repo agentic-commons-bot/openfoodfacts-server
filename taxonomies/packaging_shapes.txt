@@ -257,6 +257,7 @@ fr: Bouteille ou Flacon, Flacon ou bouteille
 it: Bottiglia o flacona, flacone o bottigia
 nl: Fles of flacon, flacon of fles
 pt: Garrafa ou frasco, frasco ou garrafa
+zh: 瓶或小瓶
 
 < en: Bottle or vial
 en: Bottle, bottles
@@ -275,6 +276,7 @@ pt: Garrafa, garrafas
 #ro: Sticlă, sticle # “Sticlă” is also used for material en:glass
 ro: sticle
 sv: Flaska
+zh: 瓶
 # suggest:packaging_materials:nl: en:glass
 # associated_packagings: en:cap
 description:nl: Een langgerekt, cilindrisch en meestal van glas vervaardigd vat met een nauwe hals die met een dop of kurk af te sluiten is
@@ -1400,6 +1402,7 @@ fr: Cale, Coin, Cornière, calage, cales, chips, croisillons, flocons, frites, c
 en: Vial, flask
 fr: Flacon
 nl: Flacon, Flacons
+zh: 小瓶
 # related_shapes: en:cap, en:vial
 # image:xx:bouteille-4.svg (looks like a whiskey flask)
 
@@ -1509,6 +1512,7 @@ fr: flacon souple, flacon pressable, flacon à presser, squeezer
 it: flacone a pressione, flacone spremibile
 nl: Knijpfles, knijpflessen
 pt: frasco de apertar, frasco de espremer
+zh: 挤压瓶
 # suggest:packaging_materials:en: en:plastic
 
 en: Aerosol can, aerosol cans, aerosol spray
