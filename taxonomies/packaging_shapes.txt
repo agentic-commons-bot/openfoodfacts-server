@@ -1106,6 +1106,7 @@ fr: carte, cartonnette
 hu: kártya
 nl: Kaart
 pt: cartolina, cartolinas
+zh: 卡片
 # default material
 packaging_materials:en: en:cardboard
 
