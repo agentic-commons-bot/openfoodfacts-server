@@ -7080,6 +7080,7 @@ ru: Сырой белок
 sk: dusíkaté látky
 sl: surove beljakovine
 sv: råprotein
+zh: 粗蛋白
 unit:en: %
 
 zz: crude ash
