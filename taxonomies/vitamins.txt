@@ -1518,6 +1518,7 @@ pt: niacina
 ro: niacină
 ru: ниацин, витамин B3, витамин PP
 sk: niacín
+zh: 烟酸
 # ast:vitamina B3
 # azb:ﻮﯿﺗﺎﻤﯿﻧ ﺏ۳
 # en-ca:niacin
@@ -1798,6 +1799,7 @@ ro: Folat
 sk: Folát
 sl: Folat
 sv: Folat
+zh: 叶酸
 vegan:en: yes
 vegetarian:en: yes
 
