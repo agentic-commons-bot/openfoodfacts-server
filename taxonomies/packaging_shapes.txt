@@ -1286,6 +1286,7 @@ nl: Applicator
 en: Bag-in-box
 fr: Bag-in-box, caisse-outre, Cubitainer, BIB
 nl: Zak-in-doos
+zh: 盒中袋
 wikidata:en: Q799810
 # made of: fr:Boîte carton à recycler, fr:poche plastique à jeter
 # https://fr.wikipedia.org/wiki/Caisse-outre
