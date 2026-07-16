@@ -1254,6 +1254,7 @@ fr: Batonnet, bâtonnets
 hu: rúd, rudak
 nl: Stok, stokken
 pt: Paus, pauzinhos, varetas de madeira
+zh: 棒状包装
 # image:xx:batonnet.svg
 # suggest:packaging_materials:en: en:wood
 
