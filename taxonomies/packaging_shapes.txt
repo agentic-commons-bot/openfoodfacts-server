@@ -835,6 +835,7 @@ lt: Kavos kapsulė, kavos kapsulės
 nl: Koffiecapsule, Koffiecapsules, Nespressocapsule, Nespresso-capsule
 pl: Kapsułka do kawy
 pt: Cápsula de café, cápsulas de café, cápsula de cafés, cápsulas de cafés
+zh: 咖啡胶囊
 wikidata:en: Q4236462
 # suggest:packaging_materials:en: en:plastic, en:aluminium
 # related_categories:en: en:Nespresso-compatible coffee capsules
@@ -851,6 +852,7 @@ it: Capsule compatibili Nespresso
 lt: Nespresso kapsulės
 nl: Nespresso-compatibele Capsules, Nespresso
 pt: Cápsulas compatíveis com Nespresso
+zh: Nespresso 兼容胶囊
 
 < en: Coffee capsule
 en: Tassimo-compatible capsules, T-Disc capsules
@@ -860,6 +862,7 @@ fr: Dosettes compatible Tassimo, Dosettes Tassimo, Capsules Tassimo, Dosettes T-
 it: Capsule compatibili Tassimo, Capsule T-Disc
 lt: Tassimo kapsulės, T-Disc kapsulės
 nl: Tassimo-compatibele Capsules, Tassimo
+zh: Tassimo 兼容胶囊
 # related_categories:en: en:Tassimo-compatible coffee capsules
 
 < en: Coffee capsule
@@ -870,6 +873,7 @@ fr: Dosettes Dolce Gusto, dosettes compatible Dolce Gusto
 it: Capsule compatibili Dolce Gusto
 lt: Dolce Gusto kapsulės
 nl: Dolce Gusto-compatibele Capsules, Dolce Gusto
+zh: Dolce Gusto 兼容胶囊
 # related_categories:en: fr:Dosettes Dolce Gusto
 
 en: Tea capsules
