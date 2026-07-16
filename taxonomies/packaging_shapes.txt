@@ -1413,6 +1413,7 @@ nl: Flacon, Flacons
 
 en: Clamping ring
 fr: Collier
+zh: 锁紧环
 # image:xx:collier-plastique.svg
 # suggest:packaging_materials:en: en:plastic
 
