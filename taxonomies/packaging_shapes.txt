@@ -1373,6 +1373,7 @@ wikidata:en: Q61686575
 # fr:Fermeture rigide / Fermoir / Muselet in data from Les Mousquetaires
 en: Wire cage
 fr: Muselet, Fermeture rigide / Fermoir / Muselet
+zh: 金属丝笼
 #goes_with:en:glass bottle
 wikidata:en: Q1061121
 # related_categories:en: en:Champagnes
