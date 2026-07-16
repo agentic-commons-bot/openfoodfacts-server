@@ -7201,6 +7201,7 @@ hr: mangan sulfat monohidrat
 it: solfato manganoso monoidrato
 nl: mangaansulfaat-monohydraat
 pt: sulfato de manganês II mono-hidratodo
+zh: 一水硫酸锰
 unit:en: mg
 
 zz: zinc sulphate monohydrate
