@@ -360,6 +360,7 @@ description:en: Verpakking voor vloeibare levensmiddelen gemaakt van gelamineerd
 en: small brick, small bricks
 fr: briquette, briquettes
 nl: briquette, briquettes
+zh: 迷你利乐砖
 # suggest:packaging_materials:en: cardboard
 
 # Can (drink or food) made with metal
