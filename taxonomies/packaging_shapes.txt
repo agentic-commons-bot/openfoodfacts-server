@@ -233,6 +233,7 @@ fr: Caisse, caisses, caissette, caissettes
 it: Cassa, casse
 nl: Kist, kisten
 pt: Engradado, engradados
+zh: 包装箱
 
 # fr:Bidon / Bonbonne used by Les Mousquetaires
 en: Jug or canister, canister or jug
