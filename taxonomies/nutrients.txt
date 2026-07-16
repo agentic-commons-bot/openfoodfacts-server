@@ -7249,6 +7249,7 @@ xx: choline chloride
 en: choline chloride
 fr: chlorure de choline
 hr: kolin klorid
+zh: 氯化胆碱
 unit:en: mg
 
 
