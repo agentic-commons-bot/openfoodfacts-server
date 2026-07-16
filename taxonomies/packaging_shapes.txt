@@ -957,6 +957,7 @@ fr: Ustensiles, ustensile, Baguettes / Couverts / Paille
 hu: evőeszközök, evőeszköz
 nl: Bestek
 pt: Talheres, talher
+zh: 餐具
 # suggest:packaging_materials:en: en:plastic, en:wood
 
 < en: Eating utensils
@@ -1018,6 +1019,7 @@ ro: Bățuri de mâncat
 ru: Палочки для еды
 sv: Ätpinnar
 tr: Yemek çubukları
+zh: 筷子
 wikidata:en: Q81980
 
 < en: Cutlery
