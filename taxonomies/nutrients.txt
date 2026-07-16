@@ -7220,6 +7220,7 @@ en: sodium selenite
 es: selenito de sodio
 fr: sélénite de sodium
 it: selenite di sodio
+zh: 亚硒酸钠
 unit:en: mg
 
 zz: calcium iodate anhydrous
