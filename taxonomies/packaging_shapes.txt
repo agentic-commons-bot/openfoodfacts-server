@@ -172,6 +172,7 @@ it: Scatola, scatole, astuccio, scatoletta
 nl: Doos, doosje, Dozen, Doosjes, Pakje, Pakjes
 pl: Pudełko, Pudło
 pt: Caixa, caixas
+zh: 盒
 # suggest:packaging_materials:nl: en:paper, en:cardboard
 description:nl: Een veelal kartonnen balkvormige verpakking
 
@@ -193,6 +194,7 @@ nl: eierdoos
 pl: Wytłaczanka, Wytłoczka
 sv: äggkartong
 tr: Yumurta kartonu
+zh: 鸡蛋盒
 # suggest:packaging_materials:nl: en:cardboard
 # suggest:category: en:eggs
 description:nl: Kartonnen of geschuimd kunststoffen doos met holtes om eieren in te verpakken zonder dat deze elkaar raken
@@ -212,6 +214,7 @@ fr: carton à pizza
 it: Cartone della pizza
 nl: Pizzadoos, pizzadozen
 sv: pizzakartong
+zh: 披萨盒
 # suggest:packaging_materials:nl: en:cardboard
 description:nl: platte, vierkante, kartonnen doos waarin men een pizza kan stoppen
 wikidata:en: Q2097650
