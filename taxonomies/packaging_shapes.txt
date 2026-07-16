@@ -919,6 +919,7 @@ en: coffee pad, coffee pads
 de: Kaffeepad, Kaffeepads
 fr: dosette de café, dosettes de café
 nl: Koffiepad
+zh: 咖啡包
 
 #As are used in Senseo
 < en: coffee pad
@@ -933,6 +934,7 @@ it: Capsule di caffè compatibili Senseo
 lt: Senseo kapsulės
 nl: Senseo-compatibele koffiecapsules, Senseo-compatibele koffiecapsule, Senseo
 pt: Cápsulas de café compatíveis com Senseo
+zh: Senseo 兼容咖啡包
 # suggest:packaging_materials:en: en:paper
 # related_categories:en: en:Senseo-compatible coffee capsules
 
