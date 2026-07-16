@@ -1259,6 +1259,7 @@ pt: Paus, pauzinhos, varetas de madeira
 
 en: Cosmetic stick
 fr: Stick cosmétique
+zh: 化妆棒
 # related_categories:en: en:lipstick, en:deodorant
 # different - do not merge
 # image:xx:stick-1.svg (stick deodorant)
