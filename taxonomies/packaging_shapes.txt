@@ -1340,6 +1340,7 @@ wikidata:en: Q1334675
 
 en: Roll, mandrel
 fr: Rouleau, Bobine, Mandrin, Mandrin / Rouleau
+zh: 卷装
 # https://fr.wikipedia.org/wiki/Mandrin#Emballage
 # comment:fr:Quand il signifie accessoire pour enroulement, le mandrin peut être un tube pour enrouler des rouleaux de papier, de feuille plastique, de tissu, etc. Le mandrin est le plus souvent en carton, réalisé par l'enroulement successif de spirales de papier croisées et collées. Parfois il est en plastique ou métallique et réutilisable. Parmi les applications domestiques, on trouve les papiers d'essuyage enroulés sur un mandrin jetable, de même le bobineau de film étirable...
 
