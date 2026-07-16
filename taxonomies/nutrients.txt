@@ -7228,6 +7228,7 @@ en: calcium iodate anhydrous
 fr: iodate de calcium anhydre
 hr: kalcij jodat
 nl: watervrij calciumjodaat
+zh: 无水碘酸钙
 unit:en: mg
 
 # III- zootechnical additives or technological additives
