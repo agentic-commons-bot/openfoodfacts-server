@@ -7108,6 +7108,7 @@ ru: Сырая зола
 sk: popol
 sl: surovi pepel
 sv: råaska
+zh: 粗灰分
 unit:en: %
 
 zz: crude fibre
