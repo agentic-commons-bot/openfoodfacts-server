@@ -1391,6 +1391,7 @@ pt: Cabide
 #fr:Calage (chips, croisillons, flocons, frites, copeaux de bois, bourre…) / Cale / Coussin / Buvard in data from Les Mousquetaires
 en: Wedge, wedges, wedging, corner piece
 fr: Cale, Coin, Cornière, calage, cales, chips, croisillons, flocons, frites, copeaux, copeaux de bois, bourre, coussin, buvard, Calage (chips - croisillons - flocons - frites - copeaux de bois - bourre…) / Cale / Coussin / Buvard
+zh: 楔形包装
 # suggest:packaging_materials:en: en:plastic, en:cardboard, en:metal, en:other
 # image:xx:cale-coin-corniere-1.svg (cardboard)
 # image:xx:cale-coin-corniere-2.svg (other)
