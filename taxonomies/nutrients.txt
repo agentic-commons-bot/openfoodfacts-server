@@ -7236,6 +7236,7 @@ zz: cassia gum
 xx: cassia gum
 en: cassia gum
 fr: gomme cassia
+zh: 决明胶
 unit:en: mg
 
 zz: ammonium chloride
