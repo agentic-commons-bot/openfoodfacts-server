@@ -427,6 +427,7 @@ hu: Pohár, fazék, lábas, edény, csésze, kanna
 nl: Kuip, kuipje
 pl: Kubek, Kubeczek
 pt: Pote, potes, boião, boiões, copo
+zh: 杯
 comment:nl: Klopt deze vertaling wel? Is het niet meer een pot en moet kuip ergens anders onder gebracht worden?
 description:nl: Wijd, houten, metalen of plastic vat
 
@@ -436,6 +437,7 @@ fr: pot individuel, pots individuels
 hu: külön edény, külön fazék
 nl: Individuele pot, individuele potten
 pt: Pote individual, potes individuais, boião individual, boiões individuais
+zh: 独立小杯
 
 # <en:pot
 # fr:salière
