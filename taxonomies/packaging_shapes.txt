@@ -1324,6 +1324,7 @@ fr: Blister
 hu: Bliszter
 nl: Blister
 pt: Blister
+zh: 泡罩包装
 wikidata:en: Q1334675
 # image:xx:blister-coque-1.svg
 # image:xx:blister-coque-2.svg
