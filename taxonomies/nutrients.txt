@@ -7172,6 +7172,7 @@ en: iron II sulphate monohydrate
 es: sulfato ferroso monohidratado
 fr: sulfate de fer II monohydraté, sulfate ferreux monohydraté, fer sulfureux monohydraté
 it: solfato ferroso monoidrato
+zh: 一水硫酸亚铁
 unit:en: mg
 
 zz: potassium iodide
