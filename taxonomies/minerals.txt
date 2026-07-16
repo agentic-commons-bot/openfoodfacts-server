@@ -470,6 +470,7 @@ ja: クエン酸一カリウム及びクエン酸三カリウム
 nl: Kaliumcitraten
 pt: Citratos de potássio
 sv: Kaliumcitrater
+zh: 柠檬酸钾
 additives_classes:en: en:sequestrant, en:stabiliser
 e_number:en: 332
 mandatory_additive_class:en: en:acidity-regulator, en:sequestrant, en:stabiliser
