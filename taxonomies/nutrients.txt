@@ -7242,6 +7242,7 @@ zz: ammonium chloride
 xx: ammonium chloride
 en: ammonium chloride
 fr: chlorure d'ammonium
+zh: 氯化铵
 unit:en: mg
 
 zz: choline chloride
