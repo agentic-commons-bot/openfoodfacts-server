@@ -446,6 +446,7 @@ pt: Pote individual, potes individuais, boião individual, boiões individuais
 en: Tumbler
 fr: Gobelet
 nl: Beker, Bekers, Koffiebeker, Cup
+zh: 广口杯
 description:nl: Een cilindervormig voorwerp waaruit gedronken kan worden
 wikidata:en: Q833823
 # image:xx:gobelet-2.svg (looks like plastic)
