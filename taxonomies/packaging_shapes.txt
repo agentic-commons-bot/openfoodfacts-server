@@ -1312,6 +1312,7 @@ bg: Крушка
 fr: Ampoule
 hr: ampula
 nl: Ampulle
+zh: 安瓿
 wikidata:en: Q477379
 # suggest:packaging_materials:en: en:glass
 # image:xx:ampoule.svg
