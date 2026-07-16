@@ -1384,6 +1384,7 @@ bg: закачалка
 fr: Cintre
 nl: Kleerhanger
 pt: Cabide
+zh: 挂钩
 # related_categories:en: en:Clothes
 # image:xx:cintre.svg
 # suggest:packaging_materials:en: en:metal, en:cardboard, en:others
