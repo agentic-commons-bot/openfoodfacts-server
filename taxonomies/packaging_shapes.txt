@@ -1366,6 +1366,7 @@ nl: Spuitbus, spuitbussen
 
 en: neck seal
 fr: Collerette
+zh: 颈封
 wikidata:en: Q61686575
 # image:xx:coiffe-collerette.svg
 # suggest:packaging_materials:en: en:metal, en:plastic
