@@ -7280,5 +7280,6 @@ ru: Протеиновая ценность
 sk: hodnota bielkovín
 sl: beljakovinska vrednost
 sv: proteinvärde
+zh: 可利用蛋白
 unit:en: g/kg
 
