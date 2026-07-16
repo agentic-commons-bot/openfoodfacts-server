@@ -342,6 +342,7 @@ de: Ziegel, Ziegelkarton, ziegelsteinförmiger Karton, Ziegelkartons, ziegelstei
 fr: Brique, briques, brique alimentaire, briques alimentaires
 hu: tégla, tégladoboz, tégla doboz, tégla karton, tégla alakú karton
 nl: Drankkarton, Melkpak, Drankenkartons, Drankencarton, Drankenkarton, Drinkpahk, Drinkpakken
+zh: 利乐砖
 description:en: Verpakking voor vloeibare levensmiddelen gemaakt van gelamineerd papier
 
 # <en:Brick
