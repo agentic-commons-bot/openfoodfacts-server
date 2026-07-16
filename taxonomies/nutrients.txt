@@ -7180,6 +7180,7 @@ en: potassium iodide
 es: yoduro de potasio
 fr: iodure de potassium
 it: ioduro di potassio
+zh: 碘化钾
 unit:en: mg
 
 zz: copper II sulphate pentahydrate
