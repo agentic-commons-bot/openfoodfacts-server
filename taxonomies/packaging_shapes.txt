@@ -1192,6 +1192,7 @@ fr: Emballage de regroupement, emballages de regroupement
 hu: Csoportosító csomag, egyesítő csomag
 nl: Groepsverpakking, groepsverpakkingen
 pt: Embalagem de grupagem, embalagem de agrupagem, embalagens de grupagem, embalagens de agrupagem, embalagem agrupadora, embalagens agrupadoras
+zh: 组合包装
 # suggest:packaging_materials:en: en:plastic
 
 # fr:Opercule / Autre Fermeture Souple in data from Les Mousquetaires
