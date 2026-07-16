@@ -1272,6 +1272,7 @@ hu: címke, címkék
 nl: Label, labels
 pl: Etykieta, etykiety
 pt: Etiqueta, etiquetas, rótulo, rótulos
+zh: 标签
 weight:en: light
 # suggest:packaging_materials:en: en:paper, en:cardboard, en:other
 # image:xx:etiquette.svg (label with a string)
