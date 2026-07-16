@@ -1279,6 +1279,7 @@ weight:en: light
 en: Applicator
 fr: Applicateur
 nl: Applicator
+zh: 涂抹器
 # suggest:packaging_materials:en: en:plastic, en:cardboard
 # image:xx:applicateur-plastique.svg (applicateur dévissable de flacon de sauce)
 # image:xx:applicateur-plastique-2.svg (tampon hygiénique)
