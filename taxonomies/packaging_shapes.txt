@@ -1185,6 +1185,7 @@ fr: Suremballage, sur-emballage, suremballages, sur-emballages
 hu: gyűjtőcsomag, gyűjtőcsomagolás, overpack
 nl: oververpakking, oververpakkingen
 pt: Sobreembalagem, sobre-embalagem, sobreembalagens, sobre-embalagens, sobrembalagens, sobrembalagens
+zh: 外包装
 
 en: Grouping package, grouping packages
 de: Gruppierungspaket
