@@ -19,6 +19,7 @@ fr: Acides aminés
 it: Amminoacidi
 nl: Aminozuren
 pt: Aminoácidos
+zh: 氨基酸
 vegan:en: yes
 vegetarian:en: yes
 wikidata:en: Q8066
@@ -37,6 +38,7 @@ ro: L-alanină
 sk: L-alanín
 sl: L-alanin
 sv: L-alanin
+zh: L-丙氨酸
 wikidata:en: Q218642
 
 < en: Amino acids
@@ -61,6 +63,7 @@ ro: L-arginină
 sk: L-arginín
 sl: L-arginin
 sv: L-arginin
+zh: L-精氨酸
 wikidata:en: Q173670
 
 < en: Amino acids
@@ -86,6 +89,7 @@ ro: acid L-aspartic
 sk: kyselina L-asparágová
 sl: L-asparaginska kislina
 sv: L-asparaginsyra
+zh: L-天门冬氨酸
 wikidata:en: Q178450
 
 < en: Amino acids
@@ -109,6 +113,7 @@ ro: L-citrulină
 sk: L-citrulín
 sl: L-citrulin
 sv: L-citrullin
+zh: L-瓜氨酸
 wikidata:en: Q408641
 
 < en: Amino acids
@@ -134,6 +139,7 @@ ro: L-cisteină
 sk: L-cysteín
 sl: L-cistein
 sv: L-cystein
+zh: L-半胱氨酸
 vegan:en: maybe
 vegetarian:en: maybe
 wikidata:en: Q186474
@@ -159,6 +165,7 @@ ro: cistină
 sk: Cystín
 sl: cistin
 sv: Cystin
+zh: 胱氨酸
 vegan:en: maybe
 vegetarian:en: maybe
 
@@ -183,6 +190,7 @@ ro: L-histidină
 sk: L-histidín
 sl: L-histidin
 sv: L-histidin
+zh: L-组氨酸
 
 < en: Amino acids
 en: L-glutamic acid
@@ -207,6 +215,7 @@ ro: acid L-glutamic
 sk: kyselina L-glutamínová
 sl: L-glutaminska kislina
 sv: L-glutaminsyra
+zh: L-谷氨酸
 
 < en: Amino acids
 en: L-glutamine
@@ -230,6 +239,7 @@ ro: L-glutamină
 sk: L-glutamín
 sl: L-glutamin
 sv: L-glutamin
+zh: L-谷氨酰胺
 wikidata:en: Q181619
 wikipedia:en: https://en.wikipedia.org/wiki/Glutamine
 
@@ -254,6 +264,7 @@ ro: glicină
 sk: glycín
 sl: glicin
 sv: glycin
+zh: 甘氨酸
 
 < en: Amino acids
 en: L-isoleucine
@@ -277,6 +288,7 @@ ro: L-izoleucină
 sk: L-isoleucín
 sl: L-izolevcin
 sv: L-isoleucin
+zh: L-异亮氨酸
 wikidata:en: Q484940
 wikipedia:en: https://en.wikipedia.org/wiki/Isoleucine
 
@@ -301,6 +313,7 @@ ro: L-leucină
 sk: L-leucín
 sl: L-levcin
 sv: L-leucin
+zh: L-亮氨酸
 wikidata:en: Q483745
 
 < en: Amino acids
@@ -324,6 +337,7 @@ ro: L-lizină
 sk: L-lyzín
 sl: L-lizin
 sv: L-lysin
+zh: L-赖氨酸
 wikidata:en: Q20816880
 
 < en: Amino acids
@@ -349,6 +363,7 @@ ro: acetat de L-lizină
 sk: L-lyzínoctan
 sl: L-lizin acetat
 sv: L-lysinacetat
+zh: L-赖氨酸乙酸盐
 wikidata:en: Q72487859
 
 < en: Amino acids
@@ -373,6 +388,7 @@ ro: L-metionină
 sk: L-metionín
 sl: L-metionin
 sv: L-metionin
+zh: L-蛋氨酸
 
 < en: Amino acids
 en: L-ornithine
@@ -395,6 +411,7 @@ ro: L-ornitină
 sk: L-ornitín
 sl: L-ornitin
 sv: L-ornitin
+zh: L-鸟氨酸
 
 < en: Amino acids
 en: L-phenylalanine
@@ -419,6 +436,7 @@ ro: L-fenilalanină
 sk: L-fenylalanín
 sl: L-fenilalanin
 sv: L-fenylalanin
+zh: L-苯丙氨酸
 
 < en: Amino acids
 en: L-proline
@@ -441,6 +459,7 @@ ro: L-prolină
 sk: L-prolín
 sl: L-prolin
 sv: L-prolin
+zh: L-脯氨酸
 wikidata:en: Q20035886
 
 < en: Amino acids
@@ -465,6 +484,7 @@ ro: L-treonină
 sk: L-treonín
 sl: L-treonin
 sv: L-treonin
+zh: L-苏氨酸
 wikidata:en: Q186521
 
 # description:en:L-tryptophan—pyruvate aminotransferase is an enzyme with systematic name L-tryptophan:pyruvate aminotransferase.
@@ -568,6 +588,7 @@ ro: L-tirozină
 sk: L-tyrozín
 sl: L-tirozin
 sv: L-tyrosin
+zh: L-酪氨酸
 wikidata:en: Q188017
 
 < en: Amino acids
@@ -592,6 +613,7 @@ ro: L-valină
 sk: L-valín
 sl: L-valin
 sv: L-valin
+zh: L-缬氨酸
 wikidata:en: Q483752
 
 < en: Amino acids
@@ -616,6 +638,7 @@ ro: L-serină
 sk: L- serín
 sl: L-serin
 sv: L-serin
+zh: L-丝氨酸
 wikidata:en: Q183290
 
 < en: Amino acids
@@ -640,6 +663,7 @@ ro: L-arginină-L-aspartat
 sk: L-arginín-L-aspartát
 sl: L-arginin-L-aspartat
 sv: L-arginin-L-aspartat
+zh: L-精氨酸-L-天门冬氨酸盐
 wikidata:en: Q82004220
 
 < en: Amino acids
@@ -664,6 +688,7 @@ ro: L-lizină-L-aspartat
 sk: L-lyzín-L-aspartát
 sl: L-lizin-L-aspartat
 sv: L-lysin-L-aspartat
+zh: L-赖氨酸-L-天门冬氨酸盐
 
 < en: Amino acids
 en: L-lysine-L-glutamate
@@ -687,6 +712,7 @@ ro: L-lizină-L-glutamat
 sk: L-lyzín-L-glutaman
 sl: L-lizin-L-glutamat
 sv: L-lysin-L-glutamat
+zh: L-赖氨酸-L-谷氨酸盐
 
 < en: Amino acids
 en: N-acetyl-L-cysteine
@@ -711,6 +737,7 @@ ro: N-acetil-L-cisteină
 sk: N-acetyl-L-cysteín
 sl: N-acetil-L-cistein
 sv: N-acetyl-L-cystein
+zh: N-乙酰-L-半胱氨酸
 vegan:en: maybe
 vegetarian:en: maybe
 
@@ -736,6 +763,7 @@ ro: N-acetil-L-metionină
 sk: N-acetyl-L-metionín
 sl: N-acetil-L-metionin
 sv: N-acetyl-L-metionin
+zh: N-乙酰-L-蛋氨酸
 
 
 
