@@ -7212,6 +7212,7 @@ hr: cink sulfat monohidrat
 it: solfato di zinco monoidrato
 nl: zinksulfaat-monohydraat
 pt: sulfato de zinco mono-hidratodo
+zh: 一水硫酸锌
 unit:en: mg
 
 zz: sodium selenite
