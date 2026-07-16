@@ -1301,6 +1301,7 @@ wikidata:en: Q799810
 
 en: strip, band, tab
 fr: Bandelette, bandelettes, bandes, bande, languette, languettes
+zh: 条状包装
 # suggest:packaging_materials:en: en:plastic, en:metal, en:cardboard, en:other
 # image:xx:bandelette-papier.svg
 # image:xx:bandelette-metal.svg
