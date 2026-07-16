@@ -376,6 +376,7 @@ it: Lattina, Latta
 nl: Bus
 pl: Puszka
 pt: Lata, latas
+zh: 罐
 description:nl: Een cilindervormig afgesloten blikken vaatje
 # suggest:packaging_materials:en: en:unknown metal, en:aluminium, en:steel
 # the line below indicates a default material: en:metal
