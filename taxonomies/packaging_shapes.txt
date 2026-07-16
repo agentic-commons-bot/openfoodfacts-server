@@ -542,6 +542,7 @@ fr: Lien, noeud, Liens, noeuds, Liens ( collier - ficelle - ruban - ruban adhés
 # associated_packagings: en:bag
 it: nodo, fiocco
 nl: Knoop, strik
+zh: 扎带
 description:fr: Ce qui sert à lier, à attacher des objets ou des parties ensemble.
 description:nl: Een vastgetrokken lus in garen, draad, koord of touw
 weight:en: light
