@@ -65,6 +65,7 @@ pl: opakowanie
 ru: упако́вка
 sq: pako, paketë
 sv: förpackningsmaterial
+zh: 包装
 description:nl: Het materiaal waarin iets verpakt is.
 
 en: packet, pack, packs, packets, package
