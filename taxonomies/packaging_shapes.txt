@@ -238,6 +238,7 @@ pt: Engradado, engradados
 en: Jug or canister, canister or jug
 fr: Bidon ou bonbonne, bonbonne ou bidon
 it: Caraffa o barattolo, lattina o caraffa
+zh: 提壶或密封罐
 
 < en: Jug or canister
 en: Jug, jugs
@@ -247,6 +248,7 @@ fr: Bidon, bidons
 it: Caraffa
 nl: Kruik, kruiken
 pt: garrafão
+zh: 提壶
 
 #fr:Bouteille / Flacon in data from Les Mousquetaires
 en: Bottle or vial, Vial or bottle
@@ -1357,6 +1359,7 @@ fr: Rouleau, Bobine, Mandrin, Mandrin / Rouleau
 en: Canister
 fr: Bombonne, bombonnes, bonbonne, bonbonnes
 nl: Spuitbus, spuitbussen
+zh: 密封罐
 # related_categories:en: en:Waters
 # image:xx:bonbonne-plastique.svg https://world.openfoodfacts.org/product/3068320125367/bouteille-d-eau-evian-6l
 # image:xx:bonbonne-verre.svg
