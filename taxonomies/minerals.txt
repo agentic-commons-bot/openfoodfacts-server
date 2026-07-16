@@ -2732,6 +2732,7 @@ vegetarian:en: yes
 en: phosphor
 es: fosforo
 it: fosforo
+zh: 磷
 vegan:en: yes
 vegetarian:en: yes
 
@@ -2750,6 +2751,7 @@ hu: foszfát, foszfátok
 it: fosfato
 nl: fosfaat
 pt: fosfato, fosfatos
+zh: 磷酸盐
 # ingredient/fr:phosphates has 57 products @2019-02-22
 # usage:fr:Séquestrant : phosphate
 # usage:fr:stabilisants : phosphates
