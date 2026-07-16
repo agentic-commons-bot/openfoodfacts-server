@@ -1201,6 +1201,7 @@ fr: Opercule, opercules, Opercule / Autre Fermeture Souple
 hu: zárófedő
 nl: Seal
 pt: Tampo, tampos
+zh: 封口
 # image:xx:opercule.svg
 # weight:en:light
 # suggest:packaging_materials:en: en:metal, en:paper, en:cardboard, en:plastic, en:others, en:mix
