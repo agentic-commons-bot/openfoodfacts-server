@@ -947,6 +947,7 @@ fr: Sachet de thé, sachets de thé, thé en sachet
 it: bustina di tè, bustina di te, bustina
 nl: Theezakje
 sv: Tepåse, tepåsar
+zh: 茶包
 
 # keep the plural as the main name
 # fr:Baguettes / Couverts / Paille -> entry from Les Mousquetaires
