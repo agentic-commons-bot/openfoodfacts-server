@@ -1678,6 +1678,7 @@ pl: tłoczony, tłoczona, tłoczone, prasowane, prasowany, prasowana, wyciskany,
 pt: espremido, espremida, espremidos, espremidas
 sv: pressad, pressat, pressade
 uk: віджатий, віджата, віджате, віджаті
+zh: 压榨, 榨取
 
 #< en:pressed
 
