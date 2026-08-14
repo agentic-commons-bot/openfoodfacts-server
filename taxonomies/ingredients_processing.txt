@@ -2636,6 +2636,7 @@ pl: krystalizowany, krystalizowana, krystalizowane, krystalizowane
 pt: cristalizado, cristalizada, cristalizados, cristalizadas
 sv: krystalliserad, krystalliserat, krystalliserade
 uk: кристалізований, кристалізована, кристалізоване, кристалізовані, кристалічний, кристалічна, кристалічне, кристалічні
+zh: 糖渍, 结晶
 
 < en: unsweetened
 de: ungezuckert, ungezuckerte, ungezuckerter, ungezuckertes
