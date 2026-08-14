@@ -1718,6 +1718,7 @@ nl: natuurlijk geperst, natuurlijk geperste, natuurlijk geperster, natuurlijk ge
 pl: tłoczony naturalnie, tłoczona naturalnie, tłoczone naturalnie, tłoczone naturalnie
 pt: espremido naturalmente, espremida naturalmente, espremidos naturalmente, espremidas naturalmente
 sv: naturligt pressad, naturligt pressade, naturligt pressat, naturligt pressade
+zh: 天然压榨
 
 #< en:pressed
 en: expeller pressed
