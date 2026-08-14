@@ -2076,6 +2076,7 @@ pt: não pasteurizado, não pasteurizados, não pasteurizada, não pasteurizadas
 sv: opastöriserad, opastöriserat, opastöriserade
 tr: pastörize edilmemiş
 uk: непастеризований, непастеризована, непастеризоване, непастеризовані
+zh: 未经巴氏杀菌, 未经巴氏消毒
 
 en: pre-cooked, precooked
 ca: precuit
