@@ -150,6 +150,7 @@ sv: Vegansk
 tr: Vegan
 uk: Веганське
 vi: Thuần chay
+zh: 纯素
 
 en: Maybe vegan
 ar: ربما نباتي
