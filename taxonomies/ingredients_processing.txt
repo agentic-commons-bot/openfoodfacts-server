@@ -1789,6 +1789,7 @@ fr: semi-solide
 it: semisolido
 ja: 半固体状
 pt: semissólido
+zh: 半固体
 
 en: macerate
 hr: macerat
